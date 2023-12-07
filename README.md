@@ -1,4 +1,4 @@
-# 更新 [Clash.Meta 内核](https://github.com/MetaCubeX/Clash.Meta)、[Clash](https://github.com/Dreamacro/clash) dashboard 面板。
+# 更新 [Clash.Meta 内核](https://github.com/MetaCubeX/Clash.Meta)、Clashdashboard 面板。
 # 一、 说明
 每天凌晨 0-3 点（北京时间）自动构建生成：
 1. Clash.Meta Alpha 版和 Release 版内核
